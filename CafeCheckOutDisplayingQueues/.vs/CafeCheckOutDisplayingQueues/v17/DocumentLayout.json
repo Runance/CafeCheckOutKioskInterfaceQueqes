@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mark Rainier\\OneDrive\\Documents\\CafeCheckoutQueqes\\CafeCheckOutDisplayingQueues\\",
+  "WorkspaceRootPath": "C:\\Users\\Mark Rainier\\source\\repos\\CafeCheckOutKioskInterface\\CafeCheckOutDisplayingQueues\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB7B1D77-0CB8-479D-B80B-50163F9A6825}|CafeCheckOutDisplayingQueues\\CafeCheckOutDisplayingQueues.csproj|c:\\users\\mark rainier\\onedrive\\documents\\cafecheckoutqueqes\\cafecheckoutdisplayingqueues\\cafecheckoutdisplayingqueues\\queqe display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB7B1D77-0CB8-479D-B80B-50163F9A6825}|CafeCheckOutDisplayingQueues\\CafeCheckOutDisplayingQueues.csproj|c:\\users\\mark rainier\\source\\repos\\cafecheckoutkioskinterface\\cafecheckoutdisplayingqueues\\cafecheckoutdisplayingqueues\\queqe display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB7B1D77-0CB8-479D-B80B-50163F9A6825}|CafeCheckOutDisplayingQueues\\CafeCheckOutDisplayingQueues.csproj|solutionrelative:cafecheckoutdisplayingqueues\\queqe display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB7B1D77-0CB8-479D-B80B-50163F9A6825}|CafeCheckOutDisplayingQueues\\CafeCheckOutDisplayingQueues.csproj|C:\\Users\\Mark Rainier\\OneDrive\\Documents\\CafeCheckoutQueqes\\CafeCheckOutDisplayingQueues\\cafecheckoutdisplayingqueues\\queqe display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EB7B1D77-0CB8-479D-B80B-50163F9A6825}|CafeCheckOutDisplayingQueues\\CafeCheckOutDisplayingQueues.csproj|C:\\Users\\Mark Rainier\\source\\repos\\CafeCheckOutKioskInterface\\CafeCheckOutDisplayingQueues\\cafecheckoutdisplayingqueues\\queqe display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EB7B1D77-0CB8-479D-B80B-50163F9A6825}|CafeCheckOutDisplayingQueues\\CafeCheckOutDisplayingQueues.csproj|solutionrelative:cafecheckoutdisplayingqueues\\queqe display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Queqe Display.cs",
-              "DocumentMoniker": "C:\\Users\\Mark Rainier\\OneDrive\\Documents\\CafeCheckoutQueqes\\CafeCheckOutDisplayingQueues\\CafeCheckOutDisplayingQueues\\Queqe Display.cs",
+              "DocumentMoniker": "C:\\Users\\Mark Rainier\\source\\repos\\CafeCheckOutKioskInterface\\CafeCheckOutDisplayingQueues\\CafeCheckOutDisplayingQueues\\Queqe Display.cs",
               "RelativeDocumentMoniker": "CafeCheckOutDisplayingQueues\\Queqe Display.cs",
-              "ToolTip": "C:\\Users\\Mark Rainier\\OneDrive\\Documents\\CafeCheckoutQueqes\\CafeCheckOutDisplayingQueues\\CafeCheckOutDisplayingQueues\\Queqe Display.cs",
+              "ToolTip": "C:\\Users\\Mark Rainier\\source\\repos\\CafeCheckOutKioskInterface\\CafeCheckOutDisplayingQueues\\CafeCheckOutDisplayingQueues\\Queqe Display.cs",
               "RelativeToolTip": "CafeCheckOutDisplayingQueues\\Queqe Display.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAiwFMAAAAoAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAiwEUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T21:18:04.511Z",
               "EditorCaption": ""
@@ -41,12 +41,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Queqe Display.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Mark Rainier\\OneDrive\\Documents\\CafeCheckoutQueqes\\CafeCheckOutDisplayingQueues\\CafeCheckOutDisplayingQueues\\Queqe Display.cs",
+              "DocumentMoniker": "C:\\Users\\Mark Rainier\\source\\repos\\CafeCheckOutKioskInterface\\CafeCheckOutDisplayingQueues\\CafeCheckOutDisplayingQueues\\Queqe Display.cs",
               "RelativeDocumentMoniker": "CafeCheckOutDisplayingQueues\\Queqe Display.cs",
-              "ToolTip": "C:\\Users\\Mark Rainier\\OneDrive\\Documents\\CafeCheckoutQueqes\\CafeCheckOutDisplayingQueues\\CafeCheckOutDisplayingQueues\\Queqe Display.cs [Design]",
+              "ToolTip": "C:\\Users\\Mark Rainier\\source\\repos\\CafeCheckOutKioskInterface\\CafeCheckOutDisplayingQueues\\CafeCheckOutDisplayingQueues\\Queqe Display.cs [Design]",
               "RelativeToolTip": "CafeCheckOutDisplayingQueues\\Queqe Display.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T21:17:59.031Z"
+              "WhenOpened": "2024-05-21T21:17:59.031Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -67,6 +67,7 @@ namespace CafeCheckOutDisplayingQueues
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();
+                MessageBox.Show("asdsada");
 
                 // Fetch "To Go" data
                 string toGoQuery = @"SELECT c.Queuing_num 
